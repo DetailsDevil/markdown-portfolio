@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Yaktocat, a depiction of a cat-like remnant of an emperor](https://octodex.github.com/images/yaktocat.png)
