@@ -1,0 +1,1 @@
+[Aftenposten](http://aftenposten.no)
